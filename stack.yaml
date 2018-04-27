@@ -1,0 +1,7 @@
+resolver: nightly-2017-10-23
+packages:
+- .
+- location: /src/haskell/text-extended
+extra-deps: []
+flags: {}
+extra-package-dbs: []
